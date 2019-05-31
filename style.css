@@ -1,12 +1,12 @@
 /* 全体（body）向けのスタイル */
 body {
     font-size: 16px;
-    color: #3c3c3c;
+    color: #644a4a;
 }
 
 /* 見出し（h1）向けのスタイル　*/
 h1 {
-     border-bottom: solid 2px #3c3c3c;    
+     border-bottom: solid 2px #ac0808;    
 }
 /* 段落（p）向けのスタイル */
 p {
