@@ -11,7 +11,7 @@ h1 {
      color: #ffffff;
 }
 /* 段落（p）向けのスタイル */
-p .greeting {
+.greeting {
     margin: 1em;
 }
 
