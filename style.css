@@ -8,6 +8,7 @@ body {
 h1 {
     color: #ffffff;
     background-color: #474545;
+    border-top: solid 4px #389bff;
     border-bottom: solid 4px #389bdd;
 }
 /* 段落（p）向けのスタイル */
